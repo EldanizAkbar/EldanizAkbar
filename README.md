@@ -18,12 +18,18 @@
 
 <h3 align="left" >Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/eldaniz-akbarzade-60791b179/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/eldaniz-akbarzade-60791b179/" height="30" width="40" /></a>
-<a href="https://twitter.com/eldanizakbarza1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eldanizakbarza1" height="30" width="40" /></a>
-<a href="https://fb.com/eldanizakbar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/eldanizakbar/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/eldenizekber" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/eldenizekber" height="30" width="40" /></a>
-</p>
-
+     <a href="https://www.linkedin.com/in/eldaniz-akbarzade-60791b179/" target="_blank">
+  <img src=https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  </a>
+    <a href="https://github.com/EldanizAkbar" target="_blank">
+  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+    <a href="https://twitter.com/EldanizAkbarza1" target="_blank">
+  <img src=https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  </a>
+    <a href="https://www.facebook.com/EldanizAkbar/" target="_blank">
+  <img src=https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+  </a>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a
@@ -132,8 +138,8 @@
  
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eldanizakbar&show_icons=true&locale=en&layout=compact" alt="eldanizakbar" /></p>
+<p><img align="left" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=eldanizakbar&show_icons=true&locale=en&layout=compact" alt="eldanizakbar" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eldanizakbar&show_icons=true&locale=en" alt="eldanizakbar" /></p>
+<p>&nbsp;<img align="center"  width="500" height="300" src="https://github-readme-stats.vercel.app/api?username=eldanizakbar&show_icons=true&locale=en" alt="eldanizakbar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eldanizakbar&" alt="eldanizakbar" /></p>
