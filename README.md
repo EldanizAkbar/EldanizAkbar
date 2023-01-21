@@ -1,5 +1,3 @@
-[![MasterHead](https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif)](https://eldanizakbar.github.io/)
-
 <h1 align="center">Hi 👋, I'm Eldaniz Akbarzade</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
 <img align="right" alt="Coding" width="350" height="240" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
