@@ -136,7 +136,7 @@
  
 </p>
 
-<p><img align="left" width="400" height="300" src="https://github-readme-stats.vercel.app/api/top-langs?username=eldanizakbar&show_icons=true&locale=en&layout=compact" alt="eldanizakbar" /></p>
+<p><img align="left" width="400" height="260" src="https://github-readme-stats.vercel.app/api/top-langs?username=eldanizakbar&show_icons=true&locale=en&layout=compact" alt="eldanizakbar" /></p>
 
 <p>&nbsp;<img align="center"  width="500" height="300" src="https://github-readme-stats.vercel.app/api?username=eldanizakbar&show_icons=true&locale=en" alt="eldanizakbar" /></p>
 
