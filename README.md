@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Eldaniz Akbarzade</h1>
 <h3 align="center">A passionate frontend developer from Azerbaijan</h3>
-<img align="right" alt="Coding" width="350" height="240" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif" />
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eldanizakbar&label=Profile%20views&color=0e75b6&style=flat" alt="eldanizakbar" /> </p>
 
 - 🌱 I’m currently learning **React.js**
 
