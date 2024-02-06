@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eldanizakbar&label=Profile%20views&color=0e75b6&style=flat" alt="eldanizakbar" /> </p>
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **Next/React.js**
 
 - 👨‍💻 All of my projects are available at [https://eldanizakbar.github.io/](https://eldanizakbar.github.io/)
 
-- 💬 Ask me about **HTML, CSS, Bootstrap, JS,**
+- 💬 Ask me about **HTML, CSS, JS, Tailwind, Bootstrap,**
 
 - 📫 How to reach me **eldenizekber@gmail.com**
 
